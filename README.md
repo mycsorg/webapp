@@ -1,5 +1,7 @@
 Jenkins server: http://18.215.116.181:8080/
-Artifatcory server:
+
+Artifatcory server: http://52.21.14.220:8081
+
 App server: 
 
 
