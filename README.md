@@ -52,6 +52,7 @@ Master cut
 Dokcker image
 =====================
 $vi Dockerfile
+
 FROM tomcat:8.0-alpine
 
 LABEL maintainer="krishnamaram2@gmail.com"
