@@ -33,6 +33,7 @@ Continuous Deployment
 
 Pull Request Buiulders
 ==========================
+https://medium.com/@mreigen/integrate-jenkins-builds-into-github-pull-requests-33bc053d6210
 
 
 
