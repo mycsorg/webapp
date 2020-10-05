@@ -58,6 +58,11 @@ Master cut
 
 Dokcker image
 =====================
+
+https://medium.com/@karthi.net/docker-tutorial-build-docker-images-using-jenkins-d2880e65b74
+
+https://dzone.com/articles/building-docker-images-to-docker-hub-using-jenkins
+
 $vi Dockerfile
 
 FROM tomcat:8.0-alpine
